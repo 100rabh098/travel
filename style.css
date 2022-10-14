@@ -1,0 +1,25 @@
+*{ padding: 1mm; }
+body{background-color: #EDEDED;}
+
+nav a{ text-decoration: none;
+    background-color: black; color: white; text-align:center; padding: 20px; float: left;
+}
+
+    img{border:2mm solid pink; padding: 2mm;} video{border: 2mm solid pink; padding: 2mm;}
+    h2{align-items: center; color: white; background-color: rgb(225, 80, 104);}
+
+    nav{background-color: black; overflow: hidden;}
+
+    nav a:hover{ color: red;}
+
+    nav a:visited{ color: yellow;}
+
+    h2{ text-align: center; }
+
+    li { font-weight: bold;}
+
+    /* #footer{  } */
+
+   footer img { align-items: center;}
+   .footer{text-align: center;}
+   .vid {text-align: center;}
